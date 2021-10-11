@@ -1,4 +1,4 @@
-# Day-1-LHD-Learn
+# MLH Local HacK Day 2022 Submission repo
 # The team :
 
 # 🍁Craig Lionel Roberts
