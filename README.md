@@ -1,5 +1,7 @@
 # Day-1-LHD-Learn
+# The team :
 
-#Khushi Sharma
-#Rohan Sharma
-#Abhinandan Jain
+# 🍁Craig Lionel Roberts
+# 🌿Khushi Sharma
+# 🍁Rohan Sharma
+# 🌿Abhinandan Jain
