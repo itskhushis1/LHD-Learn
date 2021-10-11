@@ -1,0 +1,31 @@
+Internet of Things (IoT)
+
+The Internet of Things commonly known as IoT, is a system of physical things or objects that are embedded with sensors, software and other technologies, that are interconnected and exchange data with other devices over the internet. This is a rapidly growing field due to the advancement in technologies, embedded systems and machine learning.
+Let's talk about the history of IoT
+Kevin Ashton, co-founder of the Auto-ID Center at the Massachusetts Institute of Technology (MIT), first mentioned the internet of things in a presentation he made to Procter &Gamble (P&G) in 1999. Wanting to bring radio frequency ID (RFID) to the attention of P&G's senior management, Ashton called his presentation "Internet of Things" to incorporate the cool new trend of 1999: the internet. MIT professor Neil Gershenfeld's book, When Things Start to Think, also appeared in 1999. It didn't use the exact term but provided a clear vision of where IoT was headed.
+There are various consumer applications of IoT, such as home automation, which can include automatic lighting, heating, air-conditioning etc. There are long term benefits can include saving resources by ensuring that all the appliances are turned off when not in use. 
+IoT can also be used in the healthcare industry, here its known as IoMT - Internet of Medical Things also referenced as Smart health care, IoMT devices can be used remote health monitoring and emergency notification systems. These health monitoring systems can range from checking blood pressure to monitoring the conditions of specialized implants, Moreover, specialized sensors can also be equipped within living spaces to monitor the health and general well being of the patients or senior citizens.
+IoT can also be used in transportation systems, it can assist in the integration of communications, control, and information. IoT can provide a dynamic interaction between the transportation system and the driver or even other vehicles, like IoT can help in smart traffic control, smart parking, electronic collection system, etc.
+IoT also has numerous applications in farming such as collection data on temperature, rainfall, humidity, wind speed and other things. This data can be used by the farers to automate farming techniques, take decisions to improve quality and quantity, minimize risk and waste and manage crops. With IoT farmers can monitor the soil temperature, moisture etc. from afar.
+There are many other tasks that we can automate or IoT can help us in, this also reduces labor costs, cut down waste and improves services delivery as well offering transparency into customer transactions.
+Now talking about the advantages and disadvantages: -
+Some of the advantages of IoT include the following:
+* ability to access information from anywhere at any time on any device;
+* improved communication between connected electronic devices;
+* transferring data packets over a connected network saving time and money; and
+* automating tasks helping to improve the quality of a business's services and reducing the need for human intervention.
+Some disadvantages of IoT include the following:
+* As the number of connected devices increases and more information is shared between devices, the potential that a hacker could steal confidential information also increases.
+* Enterprises may eventually have to deal with massive numbers -- maybe even millions -- of IoT devices, and collecting and managing the data from all those devices will be challenging.
+* If there's a bug in the system, it's likely that every connected device will become corrupted.
+* Since there's no international standard of compatibility for IoT, it's difficult for devices from different manufacturers to communicate with each other.
+Here are some of the IoT frameworks that are currently in use
+1. KAA IoT
+2. Cisco IoT Could Connect
+3. DeviceHive IoT
+4. Oracle IoT
+5. Microsoft Azure IoT
+6. IBM Watson - IoT framework
+7. Google Cloud Platform - IoT framework
+
+
