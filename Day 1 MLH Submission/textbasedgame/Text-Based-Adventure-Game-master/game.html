@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang = en>
+<head>
+    <meta charset = "utf-8">
+    <title>Text-Based RPG</title>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel="stylesheet" type="text/css">
+    <link rel=stylesheet href = "game.css">
+    <script type="text/javascript" src = "game.js"></script>
+    <script type="text/javascript" src = "jquery.js"></script>
+</head>    
+<body>
+
+<div id="console">
+    
+<p>Welcome to the game traveler. Press help for more options.</p>
+<p id="message_help" style="display: none;">Here is a list of commands:<br> help <br> set name <br>location <br> look around <br>go north <br>go east <br>go south <br>go west <br>take [item] <br>inventory <br>drop <br>go back <br> show stats <br> Pressing enter key into the textbox will restart the game. Instead type your request into the textbox and press tab then enter. Entering any other command will do nothing and only clear the textbox.</p>    
+<p id="sword_help" style="display: none;">There is a sword lying on the ground.</p> 
+    
+<!-- PLACEHOLDER WHERE EVERYTHING WILL BE INSERTED ABOVE -->
+    
+    <div id="placeholder">
+    <form>
+        <input type="text" size="50" autofocus="autofocus" id="command_line" />
+        <input type="button" value="Submit" onclick="writeName();" />
+    </form> 
+
+    </div>
+</div>
+    
+</body>
+</html>

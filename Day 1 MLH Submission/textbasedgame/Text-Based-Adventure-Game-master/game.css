@@ -1,0 +1,26 @@
+body {
+    font-family: Inconsolata, monospace, sans-serif;
+    background-color: black;
+    color: #1AFF80;
+}
+
+.nav-list {
+    margin-top: 45vh;
+}
+
+li {
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.start a{
+    color: #1AFF80;
+    text-decoration: none;
+}
+
+.start a:hover {
+    color: darkgreen;
+}
+
