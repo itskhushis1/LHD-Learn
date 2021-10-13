@@ -1,0 +1,40 @@
+Human-Computer-Interaction
+Human-computer interaction (HCI) is a multidisciplinary field of study focusing on the design of computer technology and, in particular, 
+the interaction between humans (the users) and computers. While initially concerned with computers, HCI has since expanded to cover almost all forms of information technology design.
+HCI surfaced in the 1980s with the advent of personal computing, just as machines such as the Apple Macintosh, IBM PC 5150 and Commodore 64 started turning up in homes and offices in 
+society-changing numbers. For the first time, sophisticated electronic systems were available to general consumers for uses such as word processors, games units and accounting aids. 
+Consequently, as computers were no longer room-sized, expensive tools exclusively built for experts in specialized environments, the need to create human-computer interaction that was 
+also easy and efficient for less experienced users became increasingly vital. From its origins, HCI would expand to incorporate multiple disciplines, such as computer science, cognitive 
+science and human-factors engineering.
+HCI soon became the subject of intense academic investigation. Those who studied and worked in HCI saw it as a crucial instrument to popularize the idea that the interaction between a computer 
+and the user should resemble a human-to-human, open-ended dialogue. Initially, HCI researchers focused on improving the usability of desktop computers (i.e., practitioners concentrated on how easy computers are to learn and use). 
+However, with the rise of technologies such as the Internet and the smartphone, computer use would increasingly move away from the desktop to embrace the mobile world. Also, HCI has steadily encompassed more fields.
+The human-computer interface can be described as the point of communication between the human user and the computer. The flow of information between the human and computer is defined as the loop of interaction. 
+
+The loop of interaction has several aspects to it, including:
+Visual Based: The visual-based human-computer interaction is probably the most widespread human-computer interaction (HCI) research area.
+Audio Based: The audio-based interaction between a computer and a human is another important area of HCI systems. This area deals with information acquired by different audio signals.
+Task environment: The conditions and goals set upon the user.
+Machine environment: The computer's environment is connected to, e.g., a laptop in a college student's dorm room.
+Areas of the interface: Non-overlapping areas involve processes of the human and computer, not about their interaction. Meanwhile, the overlapping areas only concern themselves with the processes of their interaction.
+Input flow: The flow of information begins in the task environment when the user has some task requiring using their computer.
+Output: The flow of information that originates in the machine environment.
+Feedback: Loops through the interface that evaluate, moderate, and confirm processes as they pass from the human through the interface to the computer and back.
+Fit: This matches the computer design, the user, and the task to optimize the human resources needed to accomplish the task.
+
+Human–computer interaction studies the ways in which humans make—or do not make—use of computational artifacts, systems, and infrastructures. Much of the research in this field seeks to improve the human–computer 
+interaction by improving the usability of computer interfaces. How usability is to be precisely understood, how it relates to other social and cultural values, and when it is, and when it may not be a desirable 
+property of computer interfaces is increasingly debated.
+
+Much of the research in the field of human-computer interaction takes an interest in:
+Methods for designing new computer interfaces, thereby optimizing a design for a desired property such as learnability, findability, the efficiency of use.
+Methods for implementing interfaces, e.g., by means of software libraries.
+Methods for evaluating and comparing interfaces with respect to their usability and other desirable properties.
+Methods for studying human-computer use and its sociocultural implications more broadly.
+Methods for determining whether or not the user is human or computer.
+Models and theories of human-computer use as well as conceptual frameworks for the design of computer interfaces, such as cognitivist user models, Activity Theory, or ethnomethodological accounts of human-computer use.
+
+Perspectives that critically reflect upon the values that underlie computational design, computer use, and HCI research practice.
+Visions of what researchers in the field seek to achieve might vary. When pursuing a cognitivist perspective, researchers of HCI may seek to align computer interfaces with the mental model that humans have of their activities. 
+When pursuing a post-cognitivist perspective, researchers of HCI may seek to align computer interfaces with existing social practices or existing sociocultural values.
+Researchers in HCI are interested in developing design methodologies, experimenting with devices, prototyping software and hardware systems, exploring interaction paradigms, and developing models and theories of interaction.
