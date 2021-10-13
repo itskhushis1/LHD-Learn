@@ -1,0 +1,52 @@
+ROBOTICS
+Robotics is an interdisciplinary field that integrates Computer Science and Engineering. Robotics involves design, construction, operation, and ue of robots.
+The main goal of Robotics is to design machines that can help and assist humans in almost all the fields.
+Robotics is integrated with alot of fields like machanical engineering, electrical
+engineering, mechatronics, bioengineering, mathematics and many 
+others.
+Robotics aims at develops machines that can substitute for humans and replicate
+human actions so that they can be used in many situations for many purposes, mostly in dangerous situations or environments where 
+there is a major threats or where humans can't survive.
+Certain robots require user input to operate while other robots function autonomously. 
+There are many types of robots; they are used in many different environments and for many different uses. Although being very diverse in application and form, they all share three 
+basic similarities when it comes to their construction:
+Robots all have some kind of mechanical construction, a frame, form or shape designed to achieve a particular task. For example, a robot designed to travel across heavy dirt or mud,
+might use caterpillar tracks. The mechanical aspect is mostly the creator's solution to completing the assigned task and dealing with the physics of the environment around it. Form follows function.
+Robots have electrical components that power and control the machinery. For example, the robot with caterpillar tracks would need some kind of power to move the tracker
+treads. That power comes in the form of electricity, which will have to travel through a wire and originate from a battery, a basic electrical circuit. 
+Even petrol powered machines that get their power mainly from petrol still require an electric current to start the combustion process which is why most petrol powered machines like cars, 
+have batteries. The electrical aspect of robots is used for movement (through motors), sensing (where electrical signals are used to measure things like heat, sound, position, and energy status) 
+and operation (robots need some level of electrical energy supplied to their motors and sensors in order to activate and perform basic operations)
+All robots contain some level of computer programming code. A program is how a robot decides when or how to do something. In the caterpillar track example, a robot that needs to move across a 
+muddy road may have the correct mechanical construction and receive the correct amount of power from its battery, but would not go anywhere without a program telling it to move.
+Programs are the core essence of a robot, it could have excellent mechanical and electrical construction, but if its program is poorly constructed its performance will be very poor (or it may not perform at all).
+There are three different types of robotic programs: remote control, artificial intelligence and hybrid. A robot with remote control programming has a preexisting set of commands that it will only perform
+if and when it receives a signal from a control source, typically a human being with a remote control. It is perhaps more appropriate to view devices controlled primarily by human commands as falling in the
+discipline of automation rather than robotics. Robots that use artificial intelligence interact with their environment on their own without a control source, and can determine reactions to objects and problems 
+they encounter using their preexisting programming. Hybrid is a form of programming that incorporates both AI and RC functions in them.
+
+As more and more robots are designed for specific tasks, this method of classification becomes more relevant. For example, many robots are designed for assembly work, which may not be readily adaptable for other applications. 
+They are termed as "assembly robots". For seam welding, some suppliers provide complete welding systems with the robot i.e. the welding equipment along with other material handling facilities like turntables, etc. as an integrated unit. 
+Such an integrated robotic system is called a "welding robot" even though its discrete manipulator unit could be adapted to a variety of tasks. Some robots are specifically designed for heavy load manipulation, and are labeled as "heavy-duty robots".
+
+Current and potential applications include:
+
+Military robots.
+Industrial robots. Robots are increasingly used in manufacturing (since the 1960s). According to the Robotic Industries Association US data, in 2016 automotive industry was the main customer of
+industrial robots with 52% of total sales. In the auto industry, they can amount for more than half of the "labor". There are even "lights off" factories such as an IBM keyboard manufacturing 
+factory in Texas that was fully automated as early as 2003.
+Cobots (collaborative robots).
+Construction robots. Construction robots can be separated into three types: traditional robots, robotic arm, and robotic exoskeleton.
+Agricultural robots (AgRobots). The use of robots in agriculture is closely linked to the concept of AI-assisted precision agriculture and drone usage.
+1996-1998 research also proved that robots can perform a herding task.
+Medical robots of various types (such as da Vinci Surgical System and Hospi).
+Kitchen automation. Commercial examples of kitchen automation are Flippy (burgers), Zume Pizza (pizza), Cafe X (coffee), Makr Shakr (cocktails), 
+Frobot (frozen yogurts) and Sally (salads).[31] Home examples are Rotimatic (flatbreads baking) and Boris (dishwasher loading).
+Robot combat for sport – hobby or sport event where two or more robots fight in an arena to disable each other. 
+This has developed from a hobby in the 1990s to several TV series worldwide.
+Cleanup of contaminated areas, such as toxic waste or nuclear facilities.
+Domestic robots.
+Nanorobots.
+Swarm robotics.[35]
+Autonomous drones.
+Sports field line marking.
