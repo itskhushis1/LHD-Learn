@@ -47,6 +47,6 @@ This has developed from a hobby in the 1990s to several TV series worldwide.
 Cleanup of contaminated areas, such as toxic waste or nuclear facilities.
 Domestic robots.
 Nanorobots.
-Swarm robotics.[35]
+Swarm robotics.
 Autonomous drones.
 Sports field line marking.
