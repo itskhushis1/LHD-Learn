@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "TrailProjectBattleStation",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "TrailProjectBattleStation": "0Ho6F000000XZXuSAO",
+        "TrailProjectBattleStation@0.1.0-1": "04t6F000003WT8ZQAW",
+        "TrailProjectBattleStation@0.1.0-2": "04t6F000003WTCrQAO"
+    }
+}

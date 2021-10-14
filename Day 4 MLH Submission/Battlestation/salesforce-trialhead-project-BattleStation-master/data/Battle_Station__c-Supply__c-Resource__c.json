@@ -1,0 +1,175 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Battle_Station__c",
+                "referenceId": "Battle_Station__cRef1"
+            },
+            "Name": "Obliteration Station",
+            "Project_Status__c": "Green",
+            "Weapons_Status__c": "Not Yet Operational",
+            "Supplies__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef1"
+                        },
+                        "Name": "Laser protecting eyewear (that is, sunglasses)",
+                        "Quantity__c": 2
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef2"
+                        },
+                        "Name": "Light bulbs",
+                        "Quantity__c": 2
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef3"
+                        },
+                        "Name": "Planet-destroying laser (typically a quantity of 1)",
+                        "Quantity__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef4"
+                        },
+                        "Name": "Hot glue gun",
+                        "Quantity__c": 2
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef5"
+                        },
+                        "Name": "Cantina band instruments",
+                        "Quantity__c": 2
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef6"
+                        },
+                        "Name": "Donuts",
+                        "Quantity__c": 2
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef7"
+                        },
+                        "Name": "Steel",
+                        "Quantity__c": 2
+                    },
+                    {
+                        "attributes": {
+                            "type": "Supply__c",
+                            "referenceId": "Supply__cRef8"
+                        },
+                        "Name": "Toilet paper",
+                        "Quantity__c": 2
+                    }
+                ]
+            },
+            "Resources__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef1"
+                        },
+                        "Name": "Massage therapist",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef2"
+                        },
+                        "Name": "Battle trooper with ridiculously thin armor & terrible aim",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef3"
+                        },
+                        "Name": "Dark Lord",
+                        "Quantity__c": 10,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef4"
+                        },
+                        "Name": "Admiral",
+                        "Quantity__c": 8,
+                        "Utilization__c": 3
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef5"
+                        },
+                        "Name": "Robert the foreman",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef6"
+                        },
+                        "Name": "Construction worker",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef7"
+                        },
+                        "Name": "Exhaust port inspector",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef8"
+                        },
+                        "Name": "Sandwich maker",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef9"
+                        },
+                        "Name": "Left-handed monkey wrench adjuster",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    },
+                    {
+                        "attributes": {
+                            "type": "Resource__c",
+                            "referenceId": "Resource__cRef10"
+                        },
+                        "Name": "Yoga instructor",
+                        "Quantity__c": 1,
+                        "Utilization__c": 1
+                    }
+                ]
+            }
+        }
+    ]
+}
