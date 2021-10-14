@@ -1,4 +1,5 @@
-# SFDX  App
+# BATTLE-STATION
+
 https://trailhead.salesforce.com/content/learn/projects/workshop-battle-station
 
 Package install:
