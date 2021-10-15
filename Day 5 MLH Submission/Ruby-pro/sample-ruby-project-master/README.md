@@ -1,3 +1,3 @@
-# sample-ruby-project
+# sample-Ruby on Rails-project
 
 It is a part of internal training at ANIXE. Ruby for total noobs :)
